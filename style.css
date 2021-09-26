@@ -1,0 +1,14 @@
+
+h1{
+    font-family: 'Josefin Sans', sans-serif; 
+    color:#6960ec ; 
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	color:#d291bc;
+}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+p{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #736aff;
+}
